@@ -2,13 +2,13 @@
 # This function should take three numbers as input and return their max.
 def built_in_functions_max(num1, num2, num3)
     return max(num1, num2, num3)
-    print(built_in_functions_max(4, 7, -1)
+    print(built_in_functions_max(4, 7, -1))
 
 # Function 2: Using Python built-in functions
 # This function should take three numbers as input and return their min.
 def built_in_functions_min(num1, num2, num3):
     return min(num1, num2, num3)
-    print(built_in_functions_min(4, 7, -1)
+    print(built_in_functions_min(4, 7, -1))
 
 # Function 3: Conditional Statements – The If Statement
 # This function should check if a number is positive, negative, or zero and return the corresponding message.
