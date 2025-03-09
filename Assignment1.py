@@ -1,6 +1,6 @@
 # Function 1: Using Python built-in functions
 # This function should take three numbers as input and return their max.
-def built_in_functions_max(num1, num2, num3)
+def built_in_functions_max(num1, num2, num3):
     return max(num1, num2, num3)
     print(built_in_functions_max(4, 7, -1))
 
